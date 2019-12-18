@@ -49,7 +49,6 @@ p {
 /*Navitagtion Bar*/
 .navbar {
   padding-bottom: 0 0 4.5rem;
-  paddig-bott;
 }
 
 .navbar-brand {
@@ -138,6 +137,8 @@ p {
 
 .USA-column {
   padding: 3% 2%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .cta-heading {
